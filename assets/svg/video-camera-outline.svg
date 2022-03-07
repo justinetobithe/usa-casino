@@ -1,0 +1,15 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M30 36.0005C35.5228 36.0005 40 31.5233 40 26.0005C40 20.4776 35.5228 16.0005 30 16.0005C24.4772 16.0005 20 20.4776 20 26.0005C20 31.5233 24.4772 36.0005 30 36.0005Z" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 40C37.732 40 44 33.732 44 26C44 18.268 37.732 12 30 12C22.268 12 16 18.268 16 26C16 33.732 22.268 40 30 40Z" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 12V16" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.1001 16.1001L22.9001 18.9001" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 26H20" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.1001 35.9001L22.9001 33.1001" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 39.9995V35.9995" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.9 35.9001L37.1 33.1001" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44 26H40" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.9 16.1001L37.1 18.9001" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 20.9995L26 25.9995L30 30.9995L34 25.9995L30 20.9995Z" stroke="#0066B9" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M54.874 45C54.4299 46.7252 52.8638 48 51 48H9C7.13616 48 5.57006 46.7252 5.12602 45H54.874Z" stroke="#0066B9" stroke-width="2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 17H12C10.3431 17 9 18.3431 9 20V43H11V20C11 19.4477 11.4477 19 12 19H16V17ZM44 19H48C48.5523 19 49 19.4477 49 20V43H51V20C51 18.3431 49.6569 17 48 17H44V19Z" fill="#0066B9"/>
+</svg>
